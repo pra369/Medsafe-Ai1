@@ -1,0 +1,51 @@
+Name,UsedFor,Content,AgeGroup,SideEffects,Allergy,Risk,RiskPercent
+Paracetamol,Fever;Pain,Paracetamol 500mg,All,Mild nausea,None,Low,10
+Ibuprofen,Pain;Inflammation,Ibuprofen 400mg,12+,Stomach pain,None,Medium,30
+Aspirin,Pain;Blood thinning,Aspirin 75mg,18+,Bleeding risk,Asthma,High,60
+Cetirizine,Allergy;Cold,Cetirizine 10mg,All,Drowsiness,None,Low,15
+Amoxicillin,Infection,Amoxicillin 500mg,All,Rash,Penicillin,High,70
+Azithromycin,Infection,Azithromycin 250mg,All,Nausea,None,Medium,40
+Metformin,Diabetes,Metformin 500mg,18+,Diarrhea,None,Medium,35
+Atorvastatin,Cholesterol,Atorvastatin 10mg,18+,Muscle pain,None,Medium,45
+Omeprazole,Acidity,Omeprazole 20mg,All,Headache,None,Low,10
+Pantoprazole,Acidity,Pantoprazole 40mg,All,Dizziness,None,Low,10
+Dolo 650,Fever;Pain,Paracetamol 650mg,All,Mild nausea,None,Low,10
+Crocin,Fever;Pain,Paracetamol 500mg,All,Nausea,None,Low,10
+Disprin,Pain,Aspirin 325mg,18+,Bleeding,Asthma,High,65
+Combiflam,Pain;Fever,Ibuprofen+Paracetamol,12+,Stomach upset,None,Medium,35
+Allegra,Allergy,Fexofenadine 120mg,All,Drowsiness,None,Low,15
+Zincovit,Immunity,Zinc+Vitamins,All,None,None,Low,5
+Vitamin C,Immunity,Ascorbic Acid,All,None,None,Low,5
+Calcium,Weak bones,Calcium carbonate,All,Constipation,None,Low,10
+Shelcal,Calcium deficiency,Calcium+D3,All,Gas,None,Low,10
+ORS,Dehydration,Electrolytes,All,None,None,Low,5
+ORS-L,Dehydration,Electrolytes,All,None,None,Low,5
+Sinarest,Cold,Paracetamol+Chlorpheniramine,All,Drowsiness,None,Medium,30
+Vicks Action 500,Cold;Fever,Paracetamol+Phenylephrine,All,Drowsiness,None,Medium,30
+Benadryl,Cough,Diphenhydramine,All,Sleepiness,None,Medium,35
+Corex,Cough,Codeine syrup,18+,Addiction risk,None,High,75
+Digene,Acidity,Magnesium hydroxide,All,None,None,Low,5
+Gelusil,Acidity,Aluminium hydroxide,All,None,None,Low,5
+Rantac,Acidity,Ranitidine,All,Headache,None,Low,10
+Domstal,Nausea,Domperidone,All,Dizziness,None,Medium,30
+Ondem,Nausea,Ondansetron,All,Headache,None,Medium,30
+Loperamide,Diarrhea,Loperamide 2mg,All,Constipation,None,Medium,30
+ORS Powder,Dehydration,Electrolytes,All,None,None,Low,5
+Glycomet,Diabetes,Metformin,18+,Diarrhea,None,Medium,35
+Thyronorm,Thyroid,Levothyroxine,18+,Hair loss,None,Medium,40
+Losartan,BP,Losartan 50mg,18+,Dizziness,None,Medium,40
+Amlodipine,BP,Amlodipine 5mg,18+,Swelling,None,Medium,40
+Telma,BP,Telmisartan,18+,Dizziness,None,Medium,40
+Clopidogrel,Blood thinner,Clopidogrel 75mg,18+,Bleeding,None,High,60
+Ecosprin,Blood thinner,Aspirin low dose,18+,Bleeding,Asthma,High,60
+Montair,Allergy;Asthma,Montelukast,All,Headache,None,Medium,30
+Asthalin,Asthma,Salbutamol,All,Tremor,None,Medium,35
+Budecort,Asthma,Budesonide,All,Throat irritation,None,Medium,35
+Deriphyllin,Asthma,Theophylline,All,Nausea,None,Medium,40
+Pan D,Acidity,Pantoprazole+Domperidone,All,Dizziness,None,Low,10
+Rabekind,Acidity,Rabeprazole,All,Headache,None,Low,10
+Supradyn,Vitamins,Multivitamins,All,None,None,Low,5
+Revital,Energy,Vitamins+Ginseng,All,None,None,Low,5
+Neurobion,Nerve pain,B vitamins,All,None,None,Low,5
+Flexon,Pain,Ibuprofen+Paracetamol,12+,Stomach pain,None,Medium,35
+Zerodol,Pain,Aceclofenac,18+,Nausea,None,Medium,40
