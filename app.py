@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from rapidfuzz import process
+from rapidfuzz import process,fuzz
 from PIL import Image, ImageEnhance, ImageFilter
 import pytesseract
 import re
